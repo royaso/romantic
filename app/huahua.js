@@ -15,14 +15,14 @@ var factory = function(
         },
 
         propose: function(){
-	        var reply = "hmmmm.....I wanna share my life with you too";
+	        var reply = "thanks";
             behavior.say(this.name + ": " + reply);
             console.log(this.name + ": " + reply);
             return reply;
         },
 
         love: function() {
-            var message = this.name + ": "+ "I love you";
+            var message = this.name + ": "+ "who are you";
             console.log(message);
             behavior.say(message);
             return true;
