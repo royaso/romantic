@@ -1,13 +1,16 @@
-# romantic geek
+# ideal
 
-##极客爱情
+## I LOVE U
+## me too
 
-    while(propose.times < 99) {
-        huahua.listen(phodal.ask("will")("you")("marry")("me"));
-        huahua.reply.propose ();
-    }
-    huahua.propose("Yes");
-    var ever = phodal.love(huahua) && huahua.love(phodal);
-    for(ever){;};
+-----
+# reality
 
-##(未完待续)
+## ILOVE U
+## thanks
+
+----
+
+
+## I LOVE U
+## who is this
